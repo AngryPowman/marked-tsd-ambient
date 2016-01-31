@@ -1,0 +1,15 @@
+{
+  "name": "retyped-marked-tsd-ambient",
+  "description": "TypeScript typings for marked",
+  "version": "0.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/marked-tsd-ambient",
+  "typescript": {
+    "definition": "marked.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
