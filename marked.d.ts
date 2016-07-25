@@ -69,7 +69,7 @@ interface MarkedStatic {
 }
 
 interface MarkedRenderer {
-    code(code: string, language: string): string;
+    code(code: string, language: string, escaped: boolean): string;
     blockquote(quote: string): string;
     html(html: string): string;
     heading(text: string, level: number): string;
